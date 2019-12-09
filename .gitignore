@@ -1,0 +1,16 @@
+# Ignorar todo en la raíz excepto el directorio "wp-content". y los archivos indicados abajo (dejamos la base de datos a la vista teniendo en cuenta que el el repositorio que esta creado es privado)
+/*
+!.gitignore
+!wp-content/
+
+# Ignorar todos los temas, excepto los temas que especifique
+wp-content/themes/*
+!wp-content/themes/genesis/
+!wp-content/themes/kreativ-pro/
+# Ignorar todos plugins, excepto los plugin que especifique
+wp-content/plugins/*
+!wp-content/plugins/wordpress-importer
+# Ignorar la cache en el uploads
+wp-content/wpp_cache/*
+#ignorar carpetas del tema principal
+wp-content/themes/genesis/node_modules
