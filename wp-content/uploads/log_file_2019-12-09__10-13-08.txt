@@ -1,0 +1,113 @@
+
+---Downloaded files---
+The import files for: Kreativ Pro were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://spanischer-anwalt.local
+Data file = C:\Users\javie\Local Sites\spanischer-anwalt\app\public/wp-content/themes/kreativ-pro//xml/kreativ-demo.xml
+Widget file = C:\Users\javie\Local Sites\spanischer-anwalt\app\public/wp-content/themes/kreativ-pro//xml/kreativ-widgets.wie
+Customizer file = C:\Users\javie\Local Sites\spanischer-anwalt\app\public/wp-content/themes/kreativ-pro//xml/kreativ-settings.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_type variable
+[WARNING] Failed to import "": Invalid post type nf_sub
+[WARNING] Failed to import "": Invalid post type nf_sub
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Texto - About Us - Imported
+Simple Social Icons - No Title - Imported
+Genesis - eNews Extended - Subscribe - Imported
+Entradas recientes - Recent Posts - Imported
+
+Secondary Sidebar : 
+
+Meta - No Title - Widget already exists
+Archivos - No Title - Widget already exists
+
+Topbar : 
+
+HTML personalizado - No Title - Imported
+Simple Social Icons - No Title - Imported
+
+Front Page 1 : 
+
+HTML personalizado - Digital Media Agency - Imported
+
+Front Page 2 : 
+
+Texto - Beautiful Design. Flawless Code - Imported
+HTML personalizado - No Title - Imported
+HTML personalizado - No Title - Imported
+HTML personalizado - No Title - Imported
+HTML personalizado - No Title - Imported
+HTML personalizado - No Title - Imported
+HTML personalizado - No Title - Imported
+
+Front Page 3 : 
+
+Texto - Best of our latest projects - Imported
+Genesis - Featured Portfolio - No Title - Imported
+
+Front Page 4 : 
+
+Texto - Our small yet incredible team - Imported
+HTML personalizado - No Title - Imported
+HTML personalizado - No Title - Imported
+HTML personalizado - No Title - Imported
+
+Front Page 5 : 
+
+Texto - Our Affordable Pricing Plans - Imported
+HTML personalizado - Basic - Imported
+HTML personalizado - Standard - Imported
+HTML personalizado - Ultimate - Imported
+
+Front Page 6 : 
+
+Texto - What Our Clients have to say - Imported
+HTML personalizado - No Title - Imported
+HTML personalizado - No Title - Imported
+HTML personalizado - No Title - Imported
+
+Front Page 7 : 
+
+HTML personalizado - Lets Create Something Together - Imported
+
+Footer 1 : 
+
+Texto - About Us - Imported
+
+Footer 2 : 
+
+Texto - Connect with Us - Imported
+Simple Social Icons - No Title - Imported
+
+Footer 3 : 
+
+Texto - Our Newsletter - Imported
+Genesis - eNews Extended - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
