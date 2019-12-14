@@ -6,10 +6,11 @@
 # Ignorar todos los temas, excepto los temas que especifique
 wp-content/themes/*
 !wp-content/themes/genesis/
-!wp-content/themes/kreativ-pro/
+!wp-content/themes/genesis-sample/
 # Ignorar todos plugins, excepto los plugin que especifique
 wp-content/plugins/*
-!wp-content/plugins/wordpress-importer
+!wp-content/plugins/atomic-blocks
+!wp-content/plugins/genesis-featured-page-advanced
 # Ignorar la cache en el uploads
 wp-content/wpp_cache/*
 #ignorar carpetas del tema principal

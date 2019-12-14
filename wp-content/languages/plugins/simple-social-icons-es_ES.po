@@ -1,0 +1,273 @@
+# Translation of Plugins - Simple Social Icons - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Simple Social Icons - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-01 01:01:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Simple Social Icons - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://www.studiopress.com/"
+msgstr "https://www.studiopress.com/"
+
+#. Author of the plugin
+msgid "StudioPress"
+msgstr "StudioPress"
+
+#: simple-social-icons.php:209
+msgid "xing"
+msgstr "xing"
+
+#: simple-social-icons.php:213
+msgid "YouTube"
+msgstr "Youtube"
+
+#: simple-social-icons.php:205
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: simple-social-icons.php:197
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: simple-social-icons.php:193
+msgid "StumbleUpon"
+msgstr "Stumbleupon"
+
+#: simple-social-icons.php:165
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: simple-social-icons.php:161
+msgid "Instagram"
+msgstr "Instagram"
+
+#: simple-social-icons.php:149
+msgid "Flickr"
+msgstr "Flickr"
+
+#: simple-social-icons.php:137
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: simple-social-icons.php:145
+msgid "Facebook"
+msgstr "Facebook"
+
+#: simple-social-icons.php:157
+msgid "Google+"
+msgstr "Google+"
+
+#: simple-social-icons.php:181
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: simple-social-icons.php:185
+msgid "RSS"
+msgstr "RSS"
+
+#: simple-social-icons.php:201
+msgid "Twitter"
+msgstr "Twitter"
+
+#: simple-social-icons.php:189
+msgid "Snapchat"
+msgstr "Snapchat"
+
+#: simple-social-icons.php:173
+msgid "Periscope"
+msgstr "Periscope"
+
+#: simple-social-icons.php:169
+msgid "Medium"
+msgstr "Medium"
+
+#: simple-social-icons.php:348
+msgid "Icon Color:"
+msgstr "Color del icono:"
+
+#: simple-social-icons.php:350
+msgid "Icon Hover Color:"
+msgstr "Color del icono al pasar por encima:"
+
+#: simple-social-icons.php:208
+msgid "Xing URI"
+msgstr "URI de Xing"
+
+#: simple-social-icons.php:188
+msgid "Snapchat URI"
+msgstr "URI de Snapchat"
+
+#: simple-social-icons.php:177
+msgid "Phone"
+msgstr "Teléfono"
+
+#: simple-social-icons.php:176
+msgid "Phone URI"
+msgstr "URI de teléfono"
+
+#: simple-social-icons.php:172
+msgid "Periscope URI"
+msgstr "URI de Periscope"
+
+#: simple-social-icons.php:168
+msgid "Medium URI"
+msgstr "URI de Medium"
+
+#: simple-social-icons.php:129
+msgid "Behance"
+msgstr "Behance"
+
+#: simple-social-icons.php:128
+msgid "Behance URI"
+msgstr "URI de Behance"
+
+#: simple-social-icons.php:133
+msgid "Bloglovin"
+msgstr "Bloglovin"
+
+#: simple-social-icons.php:153
+msgid "GitHub"
+msgstr "GitHub"
+
+#: simple-social-icons.php:141
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: simple-social-icons.php:342
+msgid "Align Right"
+msgstr "Alinear a la derecha"
+
+#: simple-social-icons.php:352
+msgid "Background Color:"
+msgstr "Color de fondo:"
+
+#. Description of the plugin
+msgid "A simple CSS and SVG driven social icons widget."
+msgstr "Un sencillo widget de iconos sociales basado en CSS y SVG."
+
+#: simple-social-icons.php:358
+msgid "Border Hover Color:"
+msgstr "Color del borde al pasar por encima:"
+
+#: simple-social-icons.php:354
+msgid "Background Hover Color:"
+msgstr "Color del fondo al pasar por encima:"
+
+#: simple-social-icons.php:356
+msgid "Border Color:"
+msgstr "Color de borde:"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/simple-social-icons/"
+msgstr "https://wordpress.org/plugins/simple-social-icons/"
+
+#: simple-social-icons.php:340
+msgid "Align Left"
+msgstr "Alinear a la izquierda"
+
+#: simple-social-icons.php:341
+msgid "Align Center"
+msgstr "Alinear al centro"
+
+#: simple-social-icons.php:327
+msgid "Open links in new window?"
+msgstr "¿Abrir enlaces en una nueva ventana?"
+
+#: simple-social-icons.php:338
+msgid "Alignment"
+msgstr "Alineamiento"
+
+#: simple-social-icons.php:331
+msgid "Icon Size"
+msgstr "Tamaño del icono"
+
+#: simple-social-icons.php:333
+msgid "Icon Border Radius:"
+msgstr "Radio del borde del icono:"
+
+#: simple-social-icons.php:335
+msgid "Border Width:"
+msgstr "Ancho de borde:"
+
+#: simple-social-icons.php:325
+msgid "Title:"
+msgstr "﻿Título:"
+
+#: simple-social-icons.php:238
+msgid "Displays select social icons."
+msgstr "Muestra los iconos de redes sociales seleccionados. "
+
+#. Plugin Name of the plugin
+#: simple-social-icons.php:247
+msgid "Simple Social Icons"
+msgstr "Simple Social Icons"
+
+#: simple-social-icons.php:212
+msgid "YouTube URI"
+msgstr "URI de YouTube"
+
+#: simple-social-icons.php:200
+msgid "Twitter URI"
+msgstr "URI de Twitter"
+
+#: simple-social-icons.php:204
+msgid "Vimeo URI"
+msgstr "URI de Vimeo"
+
+#: simple-social-icons.php:196
+msgid "Tumblr URI"
+msgstr "URI de Tumblr"
+
+#: simple-social-icons.php:192
+msgid "StumbleUpon URI"
+msgstr "URI de StumbleUpon"
+
+#: simple-social-icons.php:164
+msgid "Linkedin URI"
+msgstr "URI de LinkedIn"
+
+#: simple-social-icons.php:180
+msgid "Pinterest URI"
+msgstr "URI de Pinterest"
+
+#: simple-social-icons.php:184
+msgid "RSS URI"
+msgstr "URI del feed RSS"
+
+#: simple-social-icons.php:160
+msgid "Instagram URI"
+msgstr "URI de Instagram"
+
+#: simple-social-icons.php:148
+msgid "Flickr URI"
+msgstr "URI de Flickr"
+
+#: simple-social-icons.php:152
+msgid "GitHub URI"
+msgstr "URI de Github"
+
+#: simple-social-icons.php:156
+msgid "Google+ URI"
+msgstr "URI de Google+"
+
+#: simple-social-icons.php:144
+msgid "Facebook URI"
+msgstr "URI de Facebook"
+
+#: simple-social-icons.php:136
+msgid "Dribbble URI"
+msgstr "URI de Dribbble"
+
+#: simple-social-icons.php:132
+msgid "Bloglovin URI"
+msgstr "URI Bloglovin"
+
+#: simple-social-icons.php:140
+msgid "Email URI"
+msgstr "URI de correo electrónico"
